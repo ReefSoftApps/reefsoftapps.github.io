@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /about/contact
+permalink: /contact
 ---
 
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+See footer.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reef Log is on the app store!"
-date:   2024-09-18 00:00:00 +0000
+date:   2024-09-20 00:00:00 +0000
 categories: announcement
 ---
 
