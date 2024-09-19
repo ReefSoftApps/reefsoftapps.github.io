@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ReefSoft LLC is a software company targeting automation solutions in the reef aquarium hobby.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reefsoftapps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ReefLogApps
 
 # Build settings
 theme: minima
