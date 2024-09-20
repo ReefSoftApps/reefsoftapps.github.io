@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ReefSoft Apps
-email: support@reefsoft.com
+email: support@reefsoft.io
 description: >- # this means to ignore newlines until "baseurl:"
   ReefSoft LLC is a software company targeting automation solutions in the reef aquarium hobby.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reefsoftapps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ReefLogApps
+github_username:  ReefSoftApps
 
 # Build settings
 theme: minima
