@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reef Log is on the app store!"
-date:   2024-09-20 00:00:00 +0000
+title:  "Reef Log is coming to the app store!"
+date:   2024-10-10 00:00:00 +0000
 categories: announcement
 ---
 
@@ -9,7 +9,7 @@ categories: announcement
 
 Hey Reef Keepers! 🐠
 
-We are beyond excited to announce that **Reef Log** is now available on the App Store! 🎉📱
+We are beyond excited to announce that **Reef Log** will soon be available on the App Store! 🎉📱
 
 ## What is Reef Log?
 Reef Log is your ultimate companion for maintaining a thriving reef aquarium. Whether you're a seasoned aquarist or just starting your reef-keeping journey, Reef Log is here to help you keep your underwater paradise in perfect balance!
